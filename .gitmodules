@@ -9,4 +9,4 @@
 	url = git@github.com:getpelican/pelican-plugins.git
 [submodule "output"]
 	path = output
-	url = git@github.com:patricksnape/patricksnape.github.io.git
+	url = git@github.com:jabooth/jabooth.github.io.git
